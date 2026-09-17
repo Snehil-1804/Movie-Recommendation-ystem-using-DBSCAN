@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled.ipynb
+
+# Raw data folders (not needed — clusters already saved in clustered_movies.csv)
+Amazon/
+HBO/
+Netflix/
